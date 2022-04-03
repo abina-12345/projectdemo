@@ -8,9 +8,17 @@ public class project {
 		int b=20;
 		
 		int c=a+b;
-		
+		//add
 		System.out.println(c);
+		
+		int d=a*b;
+		//multiply
+		System.out.println(d);
+		
+		
 
 	}
+	
+	
 
 }
